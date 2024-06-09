@@ -2,8 +2,8 @@
 const chapters = [
 { title: "Final Book", link: "final book.pdf" },
   { title: "Final brochure", link: "Final brochure .pdf" },
-  { title: "Source Code", link: "Source.rar" },
-  { title: "Project Book", link: "Book.pdf" },
+  { title: "Source Code", link: "https://github.com/mbbf1/Grad_Project" },
+  { title: "Project Book", link: "booklet.pdf" },
   // Add more chapters as needed
 ];
 
