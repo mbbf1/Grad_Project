@@ -1,7 +1,7 @@
 // Array of chapter objects
 const chapters = [
-{ title: "Final Book", link: "Final Book.pdf" },
-  { title: "Final brochure", link: "Final brochure.pdf" },
+{ title: "Final Book", link: "final book.pdf" },
+  { title: "Final brochure", link: "Final brochure .pdf" },
   { title: "Source Code", link: "Source.rar" },
   { title: "Project Book", link: "Book.pdf" },
   // Add more chapters as needed
