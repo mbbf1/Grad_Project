@@ -1,1 +1,1 @@
-This project is about Drone jamming system. It targets 2 types of drones: UAVs and Quadcopter. First it detects the drones then send to the arduino to translate into angles and make the motor moves towards the drones and then the antennas jam the drones.
+This project is a Drone jamming system. It targets 2 types of drones: UAVs and Quadcopter. First it detects the drones then send to the arduino to translate into angles and make the motor moves towards the drones and then the antennas jam the drones.
